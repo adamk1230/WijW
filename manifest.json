@@ -1,0 +1,19 @@
+{
+
+    "manifest_version": 2,
+    "name": "WijW",
+    "version": "1.0",
+  
+
+
+    "description": "What I Just Wrote",
+  
+
+    "browser_action": {
+        "default_icon": "icon.png",
+        "default_popup": "wijw.html"
+    }
+
+  
+
+  }
